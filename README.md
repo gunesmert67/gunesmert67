@@ -34,14 +34,3 @@ I am a technology professional operating at the intersection of Mechatronics Eng
 * Email - mert.gunes@marun.edu.tr
 * Website - https://www.mertgunes.com
 * LinkedIn - https://www.linkedin.com/in/mertgunes34
-
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunesmert67&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunesmert67&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunesmert67&layout=compact&theme=radical&hide_border=true)
