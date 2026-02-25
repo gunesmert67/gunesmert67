@@ -39,3 +39,9 @@ I am a technology professional operating at the intersection of Mechatronics Eng
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gunesmert67&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunesmert67&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunesmert67&layout=compact&theme=radical&hide_border=true)
